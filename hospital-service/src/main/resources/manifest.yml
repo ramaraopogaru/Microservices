@@ -1,0 +1,6 @@
+applications:
+ -name: hospital-service
+path: target/hospital-service-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+
+  
